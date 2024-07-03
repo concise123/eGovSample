@@ -1,0 +1,29 @@
+# Eclipse IDE 관련 파일
+.classpath
+.project
+.settings/
+
+# IntelliJ IDEA 관련 파일
+.idea/
+
+# Maven 빌드 디렉토리
+target/
+
+# Gradle 빌드 디렉토리
+build/
+
+# 컴파일된 클래스 파일
+*.class
+
+# 개인 설정 파일
+*.properties
+
+# 임시 파일 및 로그 파일
+*.log
+*.tmp
+
+# Maven 저장소
+.m2/
+
+# Gradle 저장소
+.gradle/
